@@ -11,8 +11,8 @@ A program that allows users to push integers onto a stack and transfer odd eleme
 ## How to Compile and Run
 
 ```bash
-gcc main.c -o out
-./out
+gcc main.c -o main
+./main
 ```
 
 ## Example Usage
