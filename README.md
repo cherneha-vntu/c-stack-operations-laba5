@@ -1,4 +1,4 @@
-# Laboratory Work 5
+# Lab Work 5: Stack Data Structure Operations in C
 
 This project is a laboratory work for the "Computer Technologies and Programming" course. It contains a C program demonstrating the implementation of a stack using a singly linked list and transferring elements between stacks.
 
